@@ -1,4 +1,6 @@
 
+.vscode/
+
 examples/conda-env-kernel-image/.idea/conda-env-kernel-image.iml
 examples/conda-env-kernel-image/.idea/inspectionProfiles/profiles_settings.xml
 examples/conda-env-kernel-image/.idea/modules.xml
